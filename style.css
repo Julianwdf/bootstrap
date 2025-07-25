@@ -9,3 +9,36 @@
 .nav-item{
   padding-right: 20px;
 }
+
+.nav-item1 a{
+  font-size:large !important;
+  color: pink !important;
+  margin-right: 800px !important;
+}
+
+.container1{
+  display:flex;
+}
+
+#footer-content{
+  list-style: none;
+  text-align: left;
+}
+
+#footer-social {
+  list-style: none;
+  display: flex;
+  justify-content: center; /* centers items horizontally */
+  gap: 1rem; /* optional: adds space between icons */
+  padding: 0; /* removes default padding */
+  margin-left: 300px;
+  margin-top:20px; /* removes default margin */
+}
+
+#footer-terms{
+  list-style: none;
+  display: flex;
+  gap: 1rem;
+  margin-top:100px;
+  margin-left: -500px;
+}
