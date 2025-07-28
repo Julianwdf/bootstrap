@@ -16,6 +16,17 @@
   margin-right: 800px !important;
 }
 
+.nav-item2{
+  margin-left: 50px;
+}
+
+.nav-item3{
+  margin-left: 20px;
+}
+
+.btn{
+  padding:20px;
+}
 .container1{
   display:flex;
 }
